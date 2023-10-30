@@ -6,7 +6,7 @@ ktolin
 基于Ktor的后端：IntelliJ IDEA 2022.3.1    
 安卓app：Android Studio   
 ### 应用图标：    
-![image](https://github.com/ftmg12138/mini-/assets/114124555/479d5207-5402-4b85-858d-5bff4aa19bd9)    
+![image](https://github.com/ftmg12138/mini-/assets/114124555/479d5207-5402-4b85-858d-5bff4aa19bd9 =100*60)    
 ### 应用界面：    
 ![30dbb08c72924afc3a54fca3f699b78](https://github.com/ftmg12138/mini-/assets/114124555/9161e658-6358-45e2-a786-8063298b30a4)   
 ![848876fee2cd92ecc07baaf5600f6b9](https://github.com/ftmg12138/mini-/assets/114124555/f64e42f3-fee1-4a5f-a7b8-2cc99de66c1a)    
